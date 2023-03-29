@@ -11,7 +11,7 @@
 - <b>A passionate Self-taught Front-end developer.🖥️</b>
 - <b>Baller🏀</b>
 - <b>I’m currently learning **BSc Hons, Computer Science at University of Westminster, UK**🎓</b>
-- - <b>How to reach me 📫**sshiwarne@gmail.com**</b>
+- <b>How to reach me 📫**sshiwarne@gmail.com**</b>
 - <b>I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAFcQdGXfz4/XbYiGU9AzNrNMtXpjKtCWw/view?utm_content=DAFcQdGXfz4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)</b>
 
 <br><br>
