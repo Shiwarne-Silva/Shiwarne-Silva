@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Shiwarne Silva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
-<h3 align="center">Passionate Tech Enthusiast and Front-end developer.🖥️</h3><br>
+<h3 align="center">Passionate Tech Enthusiast.🖥️</h3><br>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>About me</b>
 
 <br>
