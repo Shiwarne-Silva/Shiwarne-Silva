@@ -15,9 +15,6 @@
 - <b>Check out [My Portfolio.](https://shiwarne-my-portfolio.vercel.app/)
 - <b>I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAFcQdGXfz4/XbYiGU9AzNrNMtXpjKtCWw/view?utm_content=DAFcQdGXfz4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)</b>
 
-
-
-
 ## <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and tools</b>
 <br>
 <br>
