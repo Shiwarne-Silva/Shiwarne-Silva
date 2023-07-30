@@ -1,4 +1,4 @@
-<img src="banner_github.png">
+<a href="banner_github.pdf" class="image fit" ><img src="banner_github.png" alt=""></a>
 
 <h1 align="center"><b>Hi , I'm Shiwarne Silva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
