@@ -13,7 +13,7 @@
 - <b>I’m currently learning **BSc Hons, Computer Science at University of Westminster, UK**🎓</b>
 - <b>How to reach me 📫**sshiwarne@gmail.com**</b>
 - <b>Check out [My Portfolio.](https://shiwarne-my-portfolio.vercel.app/)
-- [my resume](https://www.canva.com/design/DAFcQdGXfz4/XbYiGU9AzNrNMtXpjKtCWw/view?utm_content=DAFcQdGXfz4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)</b>
+- [My Resume](https://www.canva.com/design/DAFcQdGXfz4/XbYiGU9AzNrNMtXpjKtCWw/view?utm_content=DAFcQdGXfz4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)</b>
 
 [<a href="https://app.daily.dev/SHIWARNE_SILVA"><img src="https://api.daily.dev/devcards/a6b094d7fd874a2bab3366e339df88de.png?r=obt" width="400" alt="SHIWARNE SILVA's Dev Card"/></a>](https://api.daily.dev/devcards/a6b094d7fd874a2bab3366e339df88de.png?r=3yd)
 
