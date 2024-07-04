@@ -12,7 +12,7 @@
 - <b>Baller🏀</b>
 - <b>I’m currently learning **BSc Hons, Computer Science at University of Westminster, UK**🎓</b>
 - <b>How to reach me 📫**sshiwarne@gmail.com**</b>
-- <b>Check out [My Portfolio.](https://personal-portfolio-steel-theta.vercel.app/)
+- <b>Check out [My Portfolio.](https://shiwarnesilva-portfolio.vercel.app/)
 - [My Resume](https://www.canva.com/design/DAFcQdGXfz4/XbYiGU9AzNrNMtXpjKtCWw/view?utm_content=DAFcQdGXfz4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)</b>
 
 <a href="https://app.daily.dev/shiwarne_silva"><img src="https://api.daily.dev/devcards/v2/qGRGIewX4Uz6lkYdCkXaF.png?type=wide&r=ndl" width="652" alt="SHIWARNE SILVA's Dev Card"/></a>
