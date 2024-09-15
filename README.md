@@ -104,9 +104,9 @@
 
 ###
 
-<br><br><br>
 
-### :fire: My Stats. :
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM0NXBuejRsZmxjN2gydzUzdTNicDg4bnB3dWhreWw3dDR4bWI5eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ewh4ipgPw1bBVj4HI5/giphy.gif" width="35"> My Stats. :
 -----
 ![](https://github-readme-stats.vercel.app/api?username=Shiwarne-Silva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shiwarne-Silva&theme=dark&hide_border=false)<br/>
