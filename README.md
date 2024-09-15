@@ -1,5 +1,8 @@
 <img src="bannerGithub.gif" alt="Animated Preview" />
 
+###
+
+<img src="https://raw.githubusercontent.com/Shiwarne-Silva/Shiwarne-Silva/output/snake.svg" alt="Snake animation" />
 
 <h1 align="center"><b>Hi , I'm Shiwarne Silva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -35,11 +38,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shiwarne-Silva&theme=onedark)](https://github.com/Shiwarne-Silva/github-profile-trophy)</a> </p><br><br>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shiwarne-Silva&icon=0&color=0)](https://visitcount.itsvg.in)
   
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
