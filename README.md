@@ -13,7 +13,7 @@
 
 - <b>A passionate Self-taught Front-end developer.🖥️</b> 
 - <b>Baller🏀</b>
-- <b>I’m currently Undergraduate in **BSc Hons, Computer Science at University of Westminster, UK**🎓</b>
+- <b>I’m currently an Undergraduate in **BSc Hons, Computer Science at University of Westminster, UK**🎓</b>
 - <b>How to reach me 📫**sshiwarne@gmail.com**</b>
 - <b>Check out [My Portfolio.](https://shiwarnesilva-portfolio.vercel.app/)
 - [My Resume](https://www.canva.com/design/DAFcQdGXfz4/XbYiGU9AzNrNMtXpjKtCWw/view?utm_content=DAFcQdGXfz4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)</b>
