@@ -11,7 +11,7 @@
 
 <br>
 
-- <b>A passionate Self-taught Front-end developer.🖥️</b> 
+- <b>A passionate Self-taught Full-Stack Engineer.🖥️</b> 
 - <b>Baller🏀</b>
 - <b>Graduate in **BSc Hons, Computer Science at University of Westminster, UK With Upper Second Honors**🎓</b>
 - <b>How to reach me 📫**sshiwarne@gmail.com**</b>
